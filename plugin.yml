@@ -1,0 +1,9 @@
+name: BedwarsShop
+main: de.niklaaas.bwshop.BedwarsShop
+author: Niklaaas
+version: 1.0.0
+
+commands:
+
+   debug:
+   setshop:
